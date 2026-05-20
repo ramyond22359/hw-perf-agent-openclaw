@@ -18,7 +18,10 @@
 ## 📋 快速开始 (Quick Start)
 ```bash
 # 克隆本项目
-git clone [https://github.com/ramyond22359/hw-perf-agent-openclaw/blob/main/README.md](https://github.com/ramyond22359/hw-perf-agent-openclaw/blob/main/README.md)
+git clone [https://github.com/ramyond22359/hw-perf-agent-openclaw.git](https://github.com/ramyond22359/hw-perf-agent-openclaw.git)
+
+# 进入项目目录
+cd hw-perf-agent-openclaw
 
 # 安装依赖
 pip install -r requirements.txt
